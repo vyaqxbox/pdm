@@ -77,7 +77,7 @@ Kawasaki_H2 = car(
 Sazuki_Hayabusa = car(
 "Susuki Hayabusa", #Vehicle Name
 "Motorcycle", #Vehicle Make
-62694, #Vehicle Price
+75894, #Vehicle Price
 "motorcycle crotch rocket hayabusa sazuki suzuki", #Vehicle Alias
 "", #Vehicle Notes
 )
@@ -140,9 +140,9 @@ Harley_Davidson_Softail = car(
 
 Yamaha_1700 = car(
 "Yamaha 1700", #Vehicle Name
-"", #Vehicle Make
+"Motorcycle", #Vehicle Make
 73694, #Vehicle Price
-"motorcyle yamaha crotch rocket 1700", #Vehicle Alias
+"motorcycle yamaha crotch rocket 1700", #Vehicle Alias
 "", #Vehicle Notes
 )
 
@@ -211,7 +211,7 @@ Dodge_Charger_Super_Bee = car(
 "", #Vehicle Notes
 )
 
-Dodge_Charger = car(
+Dodge_Charger_Muscle = car(
 "Dodge Charger", #Vehicle Name
 "Muscle", #Vehicle Make
 70394, #Vehicle Price
@@ -279,7 +279,7 @@ Camaro_Street = car(
 F350_Dually = car(
 "2000 F350 Dually", #Vehicle Name
 "Off Road", #Vehicle Make
-109994, #Vehicle Price
+98994, #Vehicle Price
 "off road offroad truck f350 dually", #Vehicle Alias
 "", #Vehicle Notes
 )
@@ -532,7 +532,7 @@ Jeep_Wagoneer = car(
 "", #Vehicle Notes
 )
 
-Ford_Bronco = car(
+Ford_Bronco_2021 = car(
 "2021 Ford Bronco", #Vehicle Name
 "Off Road", #Vehicle Make
 116594, #Vehicle Price
@@ -617,7 +617,7 @@ Nissan_180SX = car(
 Decomissioned_Charger = car(
 "2018 Decomissioned Charger", #Vehicle Name
 "Sports", #Vehicle Make
-82894, #Vehicle Price
+82494, #Vehicle Price
 "sports sport 2018 decomissioned charger", #Vehicle Alias
 "", #Vehicle Notes
 )
@@ -761,7 +761,7 @@ Challenger_Wagon = car(
 S14_Drift_Car = car(
 "S14 Drift", #Vehicle Name
 "Sports", #Vehicle Make
-173794, #Vehicle Price
+100094, #Vehicle Price
 "sports sport s14 drift car", #Vehicle Alias
 "", #Vehicle Notes
 )
@@ -769,13 +769,13 @@ S14_Drift_Car = car(
 Honda_S2000_Drift = car(
 "Honda S2000 Drift", #Vehicle Name
 "Sports", #Vehicle Make
-130894, #Vehicle Price
+89094, #Vehicle Price
 "sports sport honda s2000 drift car", #Vehicle Alias
 "", #Vehicle Notes
 )
 
 Nissan_GTR50 = car(
-"Nissan_GTR50", #Vehicle Name
+"Nissan GTR50", #Vehicle Name
 "Sports", #Vehicle Make
 195794, #Vehicle Price
 "sports sport nissan gtr gtr50", #Vehicle Alias
@@ -798,7 +798,7 @@ Audi_S5_Liberty_Walk = car(
 "Moderate acceleration, VERY tight handling, amazing turning.", #Vehicle Notes
 )
 
-BMW_M3 = car(
+BMW_M3_Sports = car(
 "BMW M3", #Vehicle Name
 "Sports", #Vehicle Make
 115494, #Vehicle Price
@@ -937,8 +937,8 @@ Audi_RS6_C8 = car(
 Mazda_RX7_RB = car(
 "Mazda RX7 RB", #Vehicle Name
 "Sports", #Vehicle Make
-150694, #Vehicle Price
-"sports sport mazda rx7 rb", #Vehicle Alias
+73694, #Vehicle Price
+"sports sport mazda rx7 rb drift rocket rocketbunny bunny", #Vehicle Alias
 "", #Vehicle Notes
 )
 
@@ -1285,7 +1285,7 @@ Bentley_Mulliner = car(
 BMW_X5 = car(
 "2006 BMW X5", #Vehicle Name
 "SUV", #Vehicle Make
-67904, #Vehicle Price
+67094, #Vehicle Price
 "suvs suv 2006 bmw x5", #Vehicle Alias
 "", #Vehicle Notes
 )
@@ -1454,7 +1454,7 @@ Chrysler_Pacifica = car(
 vehicles = [Saveiro_G7, Honda_CB750_Chopper, Honda_CBR1000RR, Honda_SH150,
 Harley_Davidson, Suzuki_GSXR_1000, Kawasaki_H2, Sazuki_Hayabusa, Harley_Davidson_Fatboy,
 KTM_RC_390, Harley_Davidson_Apehanger, Yamaha_R1, KTM_RC16, Harley_Davidson_Softail,
-Yamaha_1700, Yamaha_YZ450F, Chevy_454_SS, Piaggio_Ape, Chevy_BelAire, Mercury_Cougar,
+Yamaha_1700, Yamaha_YZ450F, Chevy_454_SS, Piaggio_Ape, Chevy_BelAire, Dodge_Charger_Muscle, Mercury_Cougar,
 Dodge_Charger_Super_Bee, Dodge_Charger, Ford_Fairlane_500, Ford_Mustang_Shelby_Snake,
 Cadillac_Escalade_Drag, Plymouth_Barracuda, Ford_Mustang_GT, Camaro_ZL1_GODZ,
 Camaro_Street, F350_Dually, Mercedes_Sprinter, GMC_Sierra_Lifted, Silverado_Bagged,
@@ -1463,27 +1463,27 @@ Ford_Bronco, Dodge_Ram_3500_Custom, Ford_F150, Six_Door_Silverado, Ford_F250_Low
 Ford_F100, Ford_F150_Classic, Ford_9000, Ford_F150_Lightning, Dodge_Ram_SRT10, H1_Hummer,
 Ram_2500, Ford_Raptor, F350_King_Ranch, Chevy_Tahoe_Retired, Ford_Toyhauler,
 Jeep_Wrangler_Trailcat, Ford_F250_Lifted, Ford_Velociraptor_6x6, Jeep_Wagoneer,
-Ford_Bronco, Chevrolet_G20, Honda_Odyssey, Chrysler_Pacifica, Chrysler_300_SRT,
-Cadillac_CTS_Wagon, Oldsmobile_Cutlass, Volvo_V60, Ford_CVPI, Ford_Taurus_Retired_Police,
+Ford_Bronco_2021, Chevrolet_G20, Honda_Odyssey, Chrysler_Pacifica, Chrysler_300_SRT,
+Cadillac_CTS_Wagon, Oldsmobile_Cutlass, Volvo_V60,Lincoln_Continental, Ford_CVPI, Ford_Taurus_Retired_Police,
 Nissan_180SX, Decomissioned_Charger, Camaro_SS, Nissan_370z, _95_mustang,
 _98_Toyota_Supra, Nissan_Skyline_RHD, Rocket_Bunny, Corvette_ZR1, Honda_Integra,
 Hellcat_Demon, Jaguar_Project_8, Mercedes_e400, Mitsubishi_Lancer_Evo_9,
 Ford_Focus_RS, Acura_Integra, Mercedes_Benz_G63_AMG_6x6, Rolls_Royce, Challenger_Wagon,
 S14_Drift_Car, Honda_S2000_Drift, Nissan_GTR50, Civic_Type_R, Audi_S5_Liberty_Walk,
-BMW_M3, Mustang_Mach_1, Chevrolet_Corvette_c8_Custom, Mercedes_C63_AMG, Mercury_Merauder,
-Tesla_Model_S, Honda_NSX_RocketBunny, Audi_R8, Evo_Drag, _2005_c6_Corvette,
+BMW_M3_Sports, Mustang_Mach_1, Chevrolet_Corvette_c8_Custom, Mercedes_C63_AMG, Mercury_Merauder,
+Tesla_Model_S, Honda_NSX_RocketBunny, Porsche_911,Audi_R8, Evo_Drag, _2005_c6_Corvette,
 BMW_M3, Lexus_RC350_WB, mercedes_amg, BMW_M4_WB, BMW_M4, Audi_RS6_C8, Mazda_RX7_RB,
 RX8_Custom, Nissan_240_SX, Skyline_GTR_1999, Subaru_WRX_STI, _2020_toyota_supra,
-Tesla_Roadster, Mazda_Miata_MX5_Track, Dodge_Viper, Toyota_Trueno, Chevy_Chevelle_SS,
+Tesla_Roadster, Mazda_Miata_MX5_Track, Dodge_Viper, Toyota_Trueno, Chevy_Chevelle_SS, Caterham_R500, 
 BMW_750_IL_E38, Lamborghini_Countach, Mazda_RX7_FC3S, GT_500, Lambo_Huracan_WB, Toyota_Chaser,
 Toyota_MarkII_JZX100, Range_Rover_Autobiography, Chevrolet_C10, Lambo_Huracan_Performante,
-Lamborghini_Diablo_GTR, Porsche_918_Spyder, Mercedes_Benz_AMG_GTR_Roadster, Ferrari_F430,
+Lamborghini_Diablo_GTR, Porsche_918_Spyder, Mercedes_Benz_AMG_GTR_Roadster, Aston_Martin_DBS, Ferrari_F430,
 Ferrari_F8_Spider, Ford_GT, GODZ_LeMansory, Nissan_GTR_Custom, Lamborghini_Huracan,
-Ferrari_Italia_458, GTR_R35, Mercedes_AMG_GT, Ferrari_488_Pista_Spider,
+Ferrari_Italia_458, GTR_R35, Mercedes_AMG_GT, Bentley_Mulliner, Ferrari_488_Pista_Spider,
 Lambo_Murcialago_LP670_LB_Custom, Audi_RS7_Sportback, BMW_X5, Toyota_4Runner,
 _65_Chevrolet_C10, Bagged_Tahoe, Ford_Lightning, Cadillac_Escalade, Aston_Martin_DBX,
 Ford_Everest, Hummer_H2_Truck, Dodge_Ram, Mercedes_Benz_G65, Rolls_Royce_Cullinan,
 BMW_X6, Jeep_Trackhawk, Lamborghini_Urus, Lamborghini_Aventador,
-Tesla_Model_X_P90D, Koenigsegg_Gemera, Wig_RatRod, Porsche_Machan, Porsche_911,
-Indian_Chief_Dark_Horse, Chevrolet_C1500, Caterham_R500, BMW_E36_Rocket_Bunny,
-Range_Rover_SVR, Ram_MegaCab, Aston_Martin_DBS]
+Tesla_Model_X_P90D, Koenigsegg_Gemera, Wig_RatRod, Porsche_Machan,
+Indian_Chief_Dark_Horse, Chevrolet_C1500, BMW_E36_Rocket_Bunny,
+Range_Rover_SVR, Ram_MegaCab, COPO_Camaro_Drag]
