@@ -44,4 +44,4 @@ than $120,000
 3: Allows you to search by vehicle keyword AND price.
 
 For example, you can type 'suv' for the first prompt, and '40000' for the second prompt, and '120000' for the third prompt. Doing so will cause the program to 
-display only suvs within the price range of $40,000 and $120,000
+display only suvs within the price range of $40,000 to $120,000
