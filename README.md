@@ -10,7 +10,7 @@ Be sure to have all three of these files in the same folder. After doing so, the
 
 Open command prompt on your computer, this is an example method of running the program, in which I recommend having the files in a folder titled 'pdm' on your desktop
 
-In the command prompt enter the following commands
+In the command prompt enter the following commands (hitting enter after each one)
 >> cd desktop 
 
 >> cd pdm
