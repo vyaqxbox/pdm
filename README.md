@@ -12,7 +12,9 @@ Open command prompt on your computer, this is an example method of running the p
 
 In the command prompt enter the following commands
 >> cd desktop 
+
 >> cd pdm
+
 >> python pdm.py
 
 The first command opens your computer's desktop directory, the second opens the pdm folder containing the three files, and the third runs the main file that shows data
